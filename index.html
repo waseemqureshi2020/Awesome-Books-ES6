@@ -10,20 +10,25 @@
 <body>
     <header>
         <nav>
-            <h1>Awesome Books</h1>
+            <a class="logo" href="./index.html">Awesome Books</a>
             <ul>
-                <li class="change">List</li>
-                <li class="change">Add New</li>
-                <li class="change">Contact</li>
+                <a href="#"><li class="change">List</a></li>
+                <a href="#"><li class="change">Add New</a></li>
+                <a href="#"><li class="change">Contact</a></li>
             </ul>
         </nav>
     </header>
+    <section class="book-section">
     <form class="form">
-        <h2>Add a new book</h2>
-        <input type="text" placeholder="Title" id="title">
-        <input type="text" placeholder="Author" id="author">
+        <h2>Add A New Book</h2>
+        <input type="text" placeholder="Title" id="title" required>
+        <input type="text" placeholder="Author" id="author" required>
         <button type="submit" id="add">Add Book</button>
-    
+    </form>
+    </section>
+    <footer>
+        Copyright &copy; 2021 Awesome Books By Waseem Qureshi &trade;
+    </footer>
 <script src="index.js"></script>
 </body>
 </html>
