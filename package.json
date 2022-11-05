@@ -318,13 +318,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mujeeb4582/Awesome-Books-with-ES6.git"
+    "url": "git+https://github.com/waseemqureshi2020/Awesome-Books-ES6"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mujeeb4582/Awesome-Books-with-ES6/issues"
+    "url": "https://github.com/waseemqureshi2020/Awesome-Books-ES6/issues"
   },
-  "homepage": "https://github.com/Mujeeb4582/Awesome-Books-with-ES6#readme"
+  "homepage": "https://github.com/waseemqureshi2020/Awesome-Books-ES6/blob/main/README.md"
 }
